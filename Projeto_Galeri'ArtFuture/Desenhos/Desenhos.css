@@ -1,0 +1,86 @@
+.container-fluid .row h1, .container-fluid .row h2{
+    position: relative;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+    color: #444;
+    margin: 100px 0 20px 0;
+    font-size: 50px;
+    text-align: center;
+}
+
+#Hanako{
+    margin-left: 10%;
+    margin-right:  0;
+}
+
+.foto{
+    padding-left: 25%;
+}
+
+img#lutador{
+    width: 71.5%;
+}
+
+#Bichinho{
+    margin-left: 250px;
+}
+/*Rodapé*/
+footer {
+    height: 10vh;
+    margin: 0px;
+}
+
+footer .container-fluid {
+
+    background: #c08497;
+}
+
+footer .container-fluid .row {
+    margin: 40px 0 0 0;
+}
+
+footer .container-fluid .row .Agradecimentos {
+    font-size: 17px;
+}
+
+footer .container-fluid .row span {
+    font-weight: bold;
+}
+
+footer .container-fluid .row .col-md-6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p.titulo-fim {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+    color: #444;
+    font-size: 42px;
+    text-align: center;
+}
+
+footer .container-fluid .row .col-md-4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer .container-fluid .row .email,
+footer .container-fluid .row .insta {
+    font-size: 54px;
+    border: solid 3px #212529;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    line-height: 75px;
+    text-align: center;
+    margin: 0 5px 0 0;
+}
+
+footer .container-fluid .row .whats {
+    font-size: 70px;
+    margin: 0 5px 0 0;
+    text-align: center;
+}
